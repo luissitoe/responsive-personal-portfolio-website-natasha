@@ -2,12 +2,6 @@
 
 Watch me building this project on my YouTube channel [Designedbyluis](https://youtu.be/PWvasbJEuQI)
 
-### Techonlogies Used
-
-- HTML
-- CSS
-- JavaScript
-
 ### Key Features
 
 - Light & Dark theme
