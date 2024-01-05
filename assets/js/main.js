@@ -28,7 +28,7 @@ function addActiveLink() {
   const section = document.querySelectorAll("section[id]");
   section.forEach((section) => {
     const scrollY = window.scrollY,
-      sectionTop = section.offsetTop - 50,
+      sectionTop = section.offsetTop - 100,
       sectionHeight = section.offsetHeight,
       sectionId = section.getAttribute("id");
 
